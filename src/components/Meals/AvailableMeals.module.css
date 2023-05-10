@@ -11,6 +11,11 @@
   color: #ffffff;
 }
 
+.MealsError {
+  text-align: center;
+  color: red;
+}
+
 .meals ul {
   margin: 0;
   padding: 0;
